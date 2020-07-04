@@ -1,0 +1,40 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="CumpleJuan.html" resolutions="1x,2x" timestamp="1593795659045">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4217240250" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="familia.mp4" crc="4079327503" seo="true" mt="1593753088000"/>
+    <file name="img3.png" crc="4200078667" seo="true" mt="1593778192000"/>
+    <file name="parcialityvideo_1.mp4" crc="233479942" seo="true" mt="1593761371000"/>
+    <file name="img1.png" crc="522102163" seo="true" mt="1593778221000"/>
+    <file name="amigos.mp4" crc="4210547989" seo="true" mt="1593750266000"/>
+    <file name="img2.png" crc="4052677640" seo="true" mt="1593778205000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="site cartas-01.png" crc="4029752056" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="site cartas-01_2x.png" crc="409973803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cartas-03-u161-fr.png" crc="329820503" ref="index"/>
+    <file name="cartas-02-u161-r-fr.png" crc="4180808378" ref="index"/>
+    <file name="cartas-04-u247-r-fr.png" crc="3919346099" ref="index"/>
+    <file name="cartas-06-u286-r-fr.png" crc="3987320583" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4046134329" seo="true" mt="1593795629671" redirect="true"/>
+</manifest>
